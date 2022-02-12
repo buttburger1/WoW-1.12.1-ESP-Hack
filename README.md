@@ -6,7 +6,9 @@ Program uses DirectX 9 SDK libraries
 
 Injector looks for dxdll.dll and launches WoW on F:\Program Files (x86)\World of Warcraft 1.12
 
-![Image](/buttburger1/WoW-1.12.1-ESP-Hack/blob/main/test.png?raw=true)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/buttburger1/WoW-1.12.1-ESP-Hack/main/test.png" width="1000px"</img> 
+</div>
 
 
 Feb/09/2022 - dxdll10
