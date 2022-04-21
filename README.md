@@ -1,6 +1,6 @@
 # WoW-1.12.1-ESP-Hack
 
-A work in progress
+A work in progress built on VS2012
 
 Program uses DirectX 9 SDK libraries
 
