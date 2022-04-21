@@ -8,6 +8,7 @@ Injector looks for dxdll.dll and launches WoW on F:\Program Files (x86)\World of
 
 Apr/21/2022 - dxdll11
 Added Framescript Execute for LUA calls.
+
 Added Unit/Player/Gameobject scan mode (key set to Numpad 7/8/9, Delete for none)
 
 <div align="center">
