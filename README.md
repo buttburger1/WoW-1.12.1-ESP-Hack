@@ -7,7 +7,8 @@ Program uses DirectX 9 SDK libraries
 Injector looks for dxdll.dll and launches WoW on F:\Program Files (x86)\World of Warcraft 1.12
 
 Apr/21/2022 - dxdll11
-Added Framescript Execute for LUA calls, added Unit/Player/Gameobject scan mode (key set to Numpad 7/8/9, Delete for none)
+Added Framescript Execute for LUA calls.
+Added Unit/Player/Gameobject scan mode (key set to Numpad 7/8/9, Delete for none)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/buttburger1/WoW-1.12.1-ESP-Hack/main/test1.png" width="1000px"</img> 
