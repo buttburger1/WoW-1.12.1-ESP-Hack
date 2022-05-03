@@ -1,8 +1,6 @@
 # WoW-1.12.1-ESP-Hack
 
-A work in progress built on VS2012
-
-Program uses DirectX 9 SDK libraries
+A work in progress built on VS2012, program uses DirectX 9 SDK libraries
 
 May/3/2022
 Added CTM pathing and bot GUI
