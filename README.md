@@ -3,7 +3,7 @@
 A work in progress built on VS2012, program uses DirectX 9 SDK libraries
 
 May/3/2022
-Added CTM pathing and bot GUI
+Added bot GUI, and CTM pathing with a test run script around Stormwind Trade District, or record your own path!
 
 Apr/21/2022 - dxdll11
 Added Framescript Execute for LUA calls.
