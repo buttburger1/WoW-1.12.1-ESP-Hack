@@ -2,11 +2,15 @@
 
 A work in progress built on VS2012, program uses DirectX 9 SDK libraries
 
-May/3/2022
+May/7/2022 -WinAPI DLL Injector5
+Bot can now gather, loot chests/crates, and especially mine nodes several times until no more
+Added extra functionality(GUID timer, skip/revert path, rec CTM) path incase bot gets stuck
+
+May/3/2022 - WinAPI DLL Injector3
 Added bot GUI, and CTM pathing with a test run script around Stormwind Trade District, or record your own path!
 
 Apr/21/2022 - dxdll11
-Added Framescript Execute for LUA calls.
+Added Framescript Execute for LUA calls
 
 Added Unit/Player/Gameobject scan mode (Dostring test set to Numpad 1, key set to Numpad 7/8/9, Delete for none)
 
