@@ -1,0 +1,20 @@
+﻿Build started 5/3/2022 2:16:07 PM.
+     1>Project "C:\Users\Billgates\documents\visual studio 2012\Projects\WinAPI DLL Injector3\WinAPI DLL Injector3\WinAPI DLL Injector3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp ObjectManager.cpp
+         Main.cpp
+         ObjectManager.cpp
+     1>ObjectManager.cpp(363): warning C4244: '=' : conversion from 'clock_t' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Billgates\documents\visual studio 2012\Projects\WinAPI DLL Injector3\Release\WinAPI DLL Injector3.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Billgates\documents\visual studio 2012\Projects\WinAPI DLL Injector3\Release\WinAPI DLL Injector3.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Billgates\documents\visual studio 2012\Projects\WinAPI DLL Injector3\Release\WinAPI DLL Injector3.lib" /MACHINE:X86 /SAFESEH Release\Common.obj
+         Release\Main.obj
+         Release\ObjectManager.obj
+         Generating code
+     1>c:\users\billgates\documents\visual studio 2012\projects\winapi dll injector3\winapi dll injector3\main.cpp(669): warning C4700: uninitialized local variable 'hwnd' used
+         Finished generating code
+         WinAPI DLL Injector3.vcxproj -> C:\Users\Billgates\documents\visual studio 2012\Projects\WinAPI DLL Injector3\Release\WinAPI DLL Injector3.exe
+     1>Done Building Project "C:\Users\Billgates\documents\visual studio 2012\Projects\WinAPI DLL Injector3\WinAPI DLL Injector3\WinAPI DLL Injector3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.37
