@@ -1,6 +1,7 @@
 # WoW-1.12.1-ESP-Hack
 
-A work in progress built on VS2012, program uses DirectX 9 SDK libraries
+A work in progress built on VS2012, program uses DirectX 9 SDK libraries    
+(Older stuff moved to old branch)
 
 May/7/2022 - WinAPI DLL Injector5    
 -Bot can now gather, loot chests/crates, and especially mine nodes several times until no more   
