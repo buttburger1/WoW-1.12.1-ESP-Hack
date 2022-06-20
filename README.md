@@ -8,6 +8,9 @@ June/20/2022 - dxdll12
 -Added combat bot scripting that can be changed with a text editor!     
 (Make a folder in game directory named Scripts, in it your character name as a .txt file)    
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/buttburger1/WoW-1.12.1-ESP-Hack/main/test2.png" width="1000px"</img> 
+</div>
 
 May/7/2022 - WinAPI DLL Injector5    
 -Bot can now gather, loot chests/crates, and especially mine nodes several times   
