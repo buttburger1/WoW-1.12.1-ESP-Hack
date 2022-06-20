@@ -6,7 +6,7 @@ Built on VS2012. DLL uses DirectX 9 SDK libraries. Injector mostly Winapi (Older
 
 June/20/2022 - dxdll12      
 -Added combat bot scripting that can be changed with a text editor!     
-(Make a folder in game directory named Script, in it your character name as a .txt file)    
+(Make a folder in game directory named Scripts, in it your character name as a .txt file)    
 
 
 May/7/2022 - WinAPI DLL Injector5    
