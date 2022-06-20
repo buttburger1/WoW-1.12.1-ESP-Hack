@@ -5,7 +5,7 @@ ESP DLL and Injector with extra functionality that are entirely optional!
 Built on VS2012. DLL uses DirectX 9 SDK libraries. Injector mostly Winapi (Older stuff moved to old branch)     
 
 June/20/2022 - dxdll12
--Added combat bot scripting that can be changed with just a text editor! (Must make a folder named Script, in it your character name as a .txt file)    
+-Added combat bot scripting that can be changed with just a text editor! (Must make a folder in game directory named Script, in it your character name as a .txt file)    
 
 
 May/7/2022 - WinAPI DLL Injector5    
