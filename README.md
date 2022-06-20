@@ -1,11 +1,14 @@
 # WoW-1.12.1-ESP-Hack
 
-A work in progress built on VS2012, program uses DirectX 9 SDK libraries    
+ESP dll and Injector with extra functionality that are entirely optional! Built on VS2012, program uses DirectX 9 SDK libraries    
 (Older stuff moved to old branch)
 
+June/20/2022 -dxdll12
+-Added combat bot scripting that can be changed with just a text editor!    
+
 May/7/2022 - WinAPI DLL Injector5    
--Bot can now gather, loot chests/crates, and especially mine nodes several times until no more   
--Added extra functionality (GUID timer, skip/revert path, rec CTM) incase bot gets stuck 
+-Bot can now gather, loot chests/crates, and especially mine nodes several times   
+-Added functionality (GUID timer, skip/revert path, rec CTM, Anti-AFK) incase bot gets stuck 
 
 May/3/2022 - WinAPI DLL Injector3   
 -Added bot GUI, and CTM pathing with a test run script around Stormwind Trade District, or record your own path!    
