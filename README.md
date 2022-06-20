@@ -5,7 +5,7 @@ A work in progress built on VS2012, program uses DirectX 9 SDK libraries
 
 May/7/2022 - WinAPI DLL Injector5    
 -Bot can now gather, loot chests/crates, and especially mine nodes several times until no more   
--Added extra functionality (GUID timer, skip/revert path, rec CTM) incase bot gets stuck 
+-Added extra functionality (GUID timer, skip/revert path, rec CTM, AntiAFK) incase bot gets stuck 
 
 May/3/2022 - WinAPI DLL Injector3   
 -Added bot GUI, and CTM pathing with a test run script around Stormwind Trade District, or record your own path!    
