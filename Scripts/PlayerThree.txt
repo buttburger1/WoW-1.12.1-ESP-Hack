@@ -1,0 +1,16 @@
+DoString DEFAULT_CHAT_FRAME:AddMessage("Test Priest Script!",1.0,0.0,1.0);
+melee 0
+attackrange 25
+attackname Young_Wolf
+attackname Timber_Wolf
+attackname Kobold_Vermin
+attackname Kobold_Worker
+start
+playerHP > 75
+DoString CastSpellByName("Lesser Heal",1);
+playerMana < 100
+DoString CastSpellByName("Smite");
+playerMana < 100
+DoString DEFAULT_CHAT_FRAME:AddMessage("Looping!",1.0,0.0,1.0);
+end
+DoString DEFAULT_CHAT_FRAME:AddMessage("Stopping Script!",1.0,0.0,1.0);
