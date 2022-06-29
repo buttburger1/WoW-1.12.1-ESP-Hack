@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dxdll12", "dxdll12\dxdll12.vcxproj", "{86DEE05D-5210-4CE1-9B92-7BD3F2912A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DEE05D-5210-4CE1-9B92-7BD3F2912A80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86DEE05D-5210-4CE1-9B92-7BD3F2912A80}.Debug|Win32.Build.0 = Debug|Win32
+		{86DEE05D-5210-4CE1-9B92-7BD3F2912A80}.Release|Win32.ActiveCfg = Release|Win32
+		{86DEE05D-5210-4CE1-9B92-7BD3F2912A80}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
