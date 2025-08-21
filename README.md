@@ -1,6 +1,6 @@
 # WoW-1.12.1-ESP-Hack
 
-ESP DLL and Injector with extra functionality that are entirely optional!       
+ESP DLL and Injector with optional functionality!       
 
 Built on VS2012. DLL uses DirectX 9 SDK libraries. Injector mostly Winapi (Older stuff moved to old branch)     
 
