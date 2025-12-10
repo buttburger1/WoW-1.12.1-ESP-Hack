@@ -4,10 +4,10 @@ ESP DLL and Injector with optional functionality!
 
 Built on VS2012. DLL uses DirectX 9 SDK libraries. Injector mostly WinAPI (Older stuff moved to old branch)     
 
-December/10/2025 - Injector7 pack (WinAPI DLL Injector7 and dxdll13)
--Hauled bot start over to dll, no longer need to activate across through autoloot
--Added HUD options with toggle, can move using numpad keys
--Added wait functionality to combat script
+December/10/2025 - Injector7 pack <WinAPI DLL Injector7 and dxdll13>    
+-Hauled bot start over to dll, no longer need to activate across through autoloot    
+-Added HUD options with toggle, can move using numpad keys    
+-Added wait functionality to combat script    
 
 
 June/20/2022 - dxdll12      
