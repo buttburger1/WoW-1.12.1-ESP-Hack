@@ -1,11 +1,11 @@
 # WoW-1.12.1-ESP-Hack
 
-ESP DLL and Injector with optional functionality!       
+World to Screen aka: ESP (Extrasensory perception) DLL and WinAPI Injector and extra functionality!       
 
 Built on VS2012. DLL uses DirectX 9 SDK libraries. Injector mostly WinAPI (Older stuff moved to old branch)     
 
 December/10/2025 - Injector7 pack <WinAPI DLL Injector7 and dxdll13>    
--Hauled bot start over to dll, no longer need to activate across through autoloot    
+-Hauled pathing over to dll, extra functions not finished: loop and reverse. Hauled bot start over to dll, no longer need to activate across through autoloot    
 -Added HUD options with toggle, can move using numpad keys    
 -Added wait functionality to combat script    
 
