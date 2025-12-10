@@ -1,0 +1,20 @@
+﻿Build started 12/10/2025 3:38:20 PM.
+     1>Project "C:\Users\BillGates\Documents\Visual Studio 2012\Projects\dxdll13\dxdll13\dxdll13.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\dxdll12\dxdll12\Common.cpp ..\..\dxdll12\dxdll12\Main.cpp
+         Common.cpp
+         Main.cpp
+     1>..\..\dxdll12\dxdll12\Main.cpp(157): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>..\..\dxdll12\dxdll12\Main.cpp(2176): warning C4101: 'fileData' : unreferenced local variable
+     1>..\..\dxdll12\dxdll12\Main.cpp(2175): warning C4101: 'szDir' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BillGates\Documents\Visual Studio 2012\Projects\dxdll13\Release\dxdll13.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\BillGates\Documents\Visual Studio 2012\Projects\dxdll13\Release\dxdll13.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BillGates\Documents\Visual Studio 2012\Projects\dxdll13\Release\dxdll13.lib" /MACHINE:X86 /SAFESEH /DLL Release\Common.obj
+         Release\Main.obj
+         Generating code
+         Finished generating code
+         dxdll13.vcxproj -> C:\Users\BillGates\Documents\Visual Studio 2012\Projects\dxdll13\Release\dxdll13.dll
+     1>Done Building Project "C:\Users\BillGates\Documents\Visual Studio 2012\Projects\dxdll13\dxdll13\dxdll13.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91

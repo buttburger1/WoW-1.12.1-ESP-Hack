@@ -1,0 +1,20 @@
+DoString DEFAULT_CHAT_FRAME:AddMessage("Test Rogue Script!",1.0,0.0,1.0);
+melee 1
+attackrange 15
+attackname Young_Wolf
+attackname Timber_Wolf
+attackname Kobold_Vermin
+attackname Kobold_Worker
+attackname Defias_Thug
+start
+playerEnergy < 100
+DoString CastSpellByName("Sinister Strike");
+playerEnergy < 100
+DoString CastSpellByName("Attack");
+playerEnergy < 25
+DoString DEFAULT_CHAT_FRAME:AddMessage("Low energy!",1.0,0.0,1.0);
+playerHP < 75
+DoString DEFAULT_CHAT_FRAME:AddMessage("Wait!",1.0,0.0,1.0);
+wait 1000
+end
+DoString DEFAULT_CHAT_FRAME:AddMessage("Stopping Script!",1.0,0.0,1.0);
