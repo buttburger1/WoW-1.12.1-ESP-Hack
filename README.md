@@ -1,6 +1,6 @@
 # WoW-1.12.1-ESP-Hack
 
-World to Screen aka: ESP (Extrasensory perception) DLL and WinAPI Injector and extra functionality!       
+World to Screen aka: ESP (Extrasensory perception) DLL and Injector and extra functionality!       
 
 Built on VS2012. DLL uses DirectX 9 SDK libraries. Injector mostly WinAPI (Older stuff moved to old branch)     
 
